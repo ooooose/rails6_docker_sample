@@ -1,0 +1,2 @@
+# rails6_docker_sample
+Dockerを用いたrails6の環境構築
